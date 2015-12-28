@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ogenz.ogenz.ui.ThreeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:layout_width="229dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:text="Go to login page"
+        android:id="@+id/open_loginActivity"
+        />
+
+</FrameLayout>

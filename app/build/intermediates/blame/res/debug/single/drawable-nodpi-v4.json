@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_shopping_list.png",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\src\\main\\res\\drawable-nodpi\\ic_shopping_list.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\background_loginscreen_land.png",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\src\\main\\res\\drawable-nodpi\\background_loginscreen_land.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\background_loginscreen.png",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\src\\main\\res\\drawable-nodpi\\background_loginscreen.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\icon_profile_add.png",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\src\\main\\res\\drawable-nodpi\\icon_profile_add.png"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bg_splash.png",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\src\\main\\res\\drawable-nodpi\\bg_splash.png"
+    }
+]
