@@ -2297,7 +2297,9 @@ containing a value of this type.
         public static final int design_navigation_view=0x7f0c007e;
         public static final int disableHome=0x7f0c000e;
         public static final int edit_query=0x7f0c005c;
+        public static final int edit_text_email=0x7f0c0073;
         public static final int edit_text_email_create=0x7f0c006c;
+        public static final int edit_text_password=0x7f0c0074;
         public static final int edit_text_password_create=0x7f0c006e;
         public static final int edit_text_username_create=0x7f0c006a;
         public static final int end=0x7f0c0020;
@@ -2338,7 +2340,6 @@ containing a value of this type.
         public static final int parallax=0x7f0c001a;
         public static final int parentPanel=0x7f0c0046;
         public static final int password=0x7f0c006f;
-        public static final int passwordWrapper=0x7f0c0074;
         public static final int pin=0x7f0c001b;
         public static final int progress_circular=0x7f0c0006;
         public static final int progress_horizontal=0x7f0c0007;
@@ -2394,7 +2395,6 @@ containing a value of this type.
         public static final int up=0x7f0c0009;
         public static final int useLogo=0x7f0c0014;
         public static final int username=0x7f0c006d;
-        public static final int usernameWrapper=0x7f0c0073;
         public static final int view_offset_helper=0x7f0c000a;
         public static final int viewpager=0x7f0c007a;
         public static final int withText=0x7f0c0036;

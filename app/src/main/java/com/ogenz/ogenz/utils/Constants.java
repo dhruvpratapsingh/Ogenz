@@ -27,4 +27,9 @@ public final class Constants {
     /**
      * Constants for bundles, extras and shared preferences keys
      */
+
+    /**
+     * Constants for Firebase login
+     */
+    public static final String PASSWORD_PROVIDER = "password";
 }

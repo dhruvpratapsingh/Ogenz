@@ -651,7 +651,9 @@ int id design_menu_item_text 0x7f0c007f
 int id design_navigation_view 0x7f0c007e
 int id disableHome 0x7f0c000e
 int id edit_query 0x7f0c005c
+int id edit_text_email 0x7f0c0073
 int id edit_text_email_create 0x7f0c006c
+int id edit_text_password 0x7f0c0074
 int id edit_text_password_create 0x7f0c006e
 int id edit_text_username_create 0x7f0c006a
 int id end 0x7f0c0020
@@ -692,7 +694,6 @@ int id open_loginActivity 0x7f0c0082
 int id parallax 0x7f0c001a
 int id parentPanel 0x7f0c0046
 int id password 0x7f0c006f
-int id passwordWrapper 0x7f0c0074
 int id pin 0x7f0c001b
 int id progress_circular 0x7f0c0006
 int id progress_horizontal 0x7f0c0007
@@ -748,7 +749,6 @@ int id tv_sign_up 0x7f0c0077
 int id up 0x7f0c0009
 int id useLogo 0x7f0c0014
 int id username 0x7f0c006d
-int id usernameWrapper 0x7f0c0073
 int id view_offset_helper 0x7f0c000a
 int id viewpager 0x7f0c007a
 int id withText 0x7f0c0036
