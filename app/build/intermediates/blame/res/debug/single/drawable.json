@@ -4,8 +4,16 @@
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\src\\main\\res\\drawable\\ic_directions_car_white_24dp.png"
     },
     {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\drawable\\messenger_button_blue_bg_round.xml"
     },
     {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -16,12 +24,20 @@
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\src\\main\\res\\drawable\\ic_local_shipping_white_24dp.png"
     },
     {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mail_outline_white_24dp.png",
@@ -42,6 +58,10 @@
     {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\drawable\\messenger_button_blue_bg_selector.xml"
     },
     {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
@@ -80,6 +100,10 @@
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
     },
@@ -90,6 +114,14 @@
     {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
@@ -104,15 +136,47 @@
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     }
 ]

@@ -32,4 +32,5 @@ public final class Constants {
      * Constants for Firebase login
      */
     public static final String PASSWORD_PROVIDER = "password";
+    public static final String GOOGLE_PROVIDER = "google";
 }

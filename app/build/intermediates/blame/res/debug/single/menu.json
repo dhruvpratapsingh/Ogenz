@@ -2,5 +2,9 @@
     {
         "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_base.xml",
+        "source": "C:\\dev\\workspace\\AndroidApps\\Ogenz\\app\\src\\main\\res\\menu\\menu_base.xml"
     }
 ]

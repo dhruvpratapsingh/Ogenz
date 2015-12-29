@@ -17,11 +17,12 @@ import android.widget.Toast;
 import com.firebase.client.Firebase;
 import com.firebase.client.FirebaseError;
 import com.ogenz.ogenz.R;
+import com.ogenz.ogenz.ui.BaseActivity;
 import com.ogenz.ogenz.utils.Constants;
 
 import java.util.Map;
 
-public class CreateAccountActivity extends AppCompatActivity {
+public class CreateAccountActivity extends BaseActivity {
 
     private static final String LOG_TAG = CreateAccountActivity.class.getSimpleName();
     private Firebase mFirebaseRef;
@@ -65,8 +66,8 @@ public class CreateAccountActivity extends AppCompatActivity {
         mEditTextUsernameCreate = (TextInputLayout) findViewById(R.id.edit_text_username_create);
         mEditTextEmailCreate = (TextInputLayout) findViewById(R.id.edit_text_email_create);
         mEditTextPasswordCreate = (TextInputLayout) findViewById(R.id.edit_text_password_create);
-        /*LinearLayout linearLayoutCreateAccountActivity = (LinearLayout) findViewById(R.id.linear_layout_create_account_activity);
-        setContentView(linearLayoutCreateAccountActivity);*/
+        LinearLayout linearLayoutCreateAccountActivity = (LinearLayout) findViewById(R.id.linear_layout_create_account_activity);
+        initializeBackground(linearLayoutCreateAccountActivity);
 
         /* Setup the progress dialog that is displayed later when authenticating with Firebase */
         mAuthProgressDialog = new ProgressDialog(this);

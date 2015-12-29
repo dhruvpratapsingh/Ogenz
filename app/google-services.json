@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "ogenz-2b7db",
+    "project_number": "1001178484533",
+    "name": "Ogenz"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001178484533:android:85efab6abd6a9aac",
+        "client_id": "android:com.ogenz.ogenz",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.ogenz.ogenz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001178484533-5mjh8cvdeo4ipa7jvbprhroskaacd3uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ogenz.ogenz",
+            "certificate_hash": "0C5D3CB7E12EA9273D85616D3A019E507CF02164"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
